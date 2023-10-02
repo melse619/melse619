@@ -1,0 +1,4 @@
+- Hi, My name is Nicole zoe.
+- I’m interested in programming.
+- I’m currently learning Python, HTML5, JavaScript and CSS.
+- I’m looking to collaborate on projects.
