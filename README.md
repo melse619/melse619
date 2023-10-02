@@ -2,3 +2,4 @@
 - I’m interested in programming.
 - I’m currently learning Python, HTML5, JavaScript and CSS.
 - I’m looking to collaborate on projects.
+- Get in touch via my email: nicolebraga209@gmail.com
